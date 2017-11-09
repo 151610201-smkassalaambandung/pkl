@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_info"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Info">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="1"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ff000000"
+                android:textSize="15dp"
+                android:text="                  Profil Pembuat Aplikasi"/>
+
+            <TextView
+                android:layout_width="296dp"
+                android:layout_height="match_parent"
+                android:textColor="#ff000000"
+                android:textSize="15dp"
+                android:text="\n                        FAUZIAH RAHMI\n\n                              XII RPL 1 \n\n              SMK ASSALAAM BANDUNG"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ff000000"
+                android:textSize="15dp"
+                android:text="\n                       GUGUN GUNAWAN\n\n                              XII RPL 2 \n\n              SMK ASSALAAM BANDUNG"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ff000000"
+                android:textSize="15dp"
+                android:text="\n                       RAHMAD FIRDAUS\n\n                               XII RPL 2 \n\n               SMK ASSALAAM BANDUNG"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ff000000"
+                android:textSize="15dp"
+                android:text="\n                        RISMA WIDIANTI\n\n                               XII RPL 3 \n\n               SMK ASSALAAM BANDUNG"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

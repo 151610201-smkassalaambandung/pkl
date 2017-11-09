@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Tarikh2">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="15dp"
+            android:text="  Nabi Muhammad saw ialah Nabi akhir zaman sebab sesudah beliau tidak ada lagi orang yang diutus Allah swt sebagai Nabi.\n\n
+    Ayah Nabi Muhammad bernama Abdullah bin Abdul Muthalib, sedangkan ibunya bernama Aminah binti Wahab. Abdullah meninggal dalam perjalanan dagang di Yatsrib (Madinah). Ketika itu, Nabi Muhammad masih dalam kandungan ibunya. Abdullah meninggalkan harta berupa lima ekor unta, sekawanan biri-biri, dan seorang budak perempuan yang bernama Ummu Aiman yang kemudian mengasuh Nabi Muhammad saw.\n\n
+    Ketika Nabi Muhammad berumur enam tahun, ibunya mengajak Nabi Muhammad pergi ke Yatsrib (Madinah). Mereka bermaksud untuk menziarahi makam Abdullah (Ayahnya) dan mengunjungi saudaranya yang tinggal di sana.\n\n
+
+    Setelah sebulan lamanya mereka tinggal di Madinah, akhirnya mereka kembali ke Mekkah. Nabi Muhammad saw telah mengetahui pusara ayahnya dan berkenalan dengan sanak keluarganya.\n\n
+
+    Namun, di tengah perjalanan pulang menuju Mekkah, tepatnya di daerah Abwa’ ibu beliau jatuh sakit. Setelah beberapa hari, Aminah meninggal dunia di Abwa’ yang terletak tidak jauh dari Yatsrib, kemudian dikuburkan disana. Setelah ibunya meninggal, Nabi Muhammad saw diasuh oleh kakeknya, Abdul Muthalib. Setelah kakeknya meninggal, ia dijaga oleh pamannya, Abu Thalib. Pada masa itulah, Nabi Muhammad diminta menggembala kambing-kambingnya di sekitar Kota Mekkah. Nabi Muhammad juga pernah menemani pamannya dalam urusan dagangnya ke negeri Syam.\n\n
+
+    Nabi Muhammad saw tumbuh menjadi orang yang meyakini keesaan Allah swt. Beliau hidup sederhana dan tidak berlaku sombong. Beliau juga menjauhi kebiasaan-kebiasaan buruk di kalangan bangsa Arab seperti berjudi dan minum-minuman keras serta menyembah berhala. Masyarakat di sekitarnya mengenal beliau sebagai Ash-Shadiq (orang yang benar) dan Al-Amin (orang yang terpercaya)."/>
+    </ScrollView>
+</RelativeLayout>

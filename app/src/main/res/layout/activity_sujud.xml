@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_sujud"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.sujud">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="7.Sujud.\n\n
+
+        Setelah i'tidal terus sujud (tersungkar ke bumi) dengan meletakkan dahi ke bumi dan ketika turun seraya membaca Allaahu Akbar, dan setelah sujud membaca tasbih sebagai berikut:\n\n
+
+      \n\n  سُبْحَانَ رَبِّيَ اْلاَعْلَى وَبِحَمْدِهِ
+
+        Bacaannya: Subhaana rabbiyal-a'laa wa bi hamdih. 3 kali\n\n
+
+        Artinya :\n\n
+
+        Maha Suci Tuhan Yang Maha Tinggi serta memujilah aku kepada-Nya.\n\n\n\n\n\n
+"/>
+
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

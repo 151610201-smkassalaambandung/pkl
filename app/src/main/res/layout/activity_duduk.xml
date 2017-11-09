@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_duduk"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.duduk">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="8.Duduk Antara Dua Sujud:\n\n
+
+        Setelah sujud kemudian duduk serta membaca Allaahu Akbar dan setelah duduk membaca :\n\n
+
+        رَبِّ اغْفِرْلِى وَارْحَمْنِىْ وَاجْبُرْنِىْ وَارْفَعْنِى وَارْزُقْنِىْ وَاهْدِ نِىْ وَعَا فِنِىْ وَاعْفُ عَنِّىْ\n\n
+
+        Bacaannya: Rabbighfirlii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa 'aafinii wa'fu 'annii.\n\n
+
+        Artinya :\n\n
+
+        Ya Allah, ampunilah dosaku, belas kasihanilah aku dan cukupkanlah segala kekuranganku dan angkatlah derajatku dan berilah rezeki kepadaku, dan berilah aku petunjuk da berilah kesehatan kepadaku dan berilah ampunan kepadaku.\n\n\n\n\n\n
+        "/>
+
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

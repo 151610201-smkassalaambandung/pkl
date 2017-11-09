@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_azan2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Azan2">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="15dp"
+            android:text="          Kisah Sahabat Bilal Bin Rabah\n\n   Bilal bin Rabah merupakan orang berkulit hitam dari Habsyah (Ethiopia) yang memeluk agama Islam ketika masih menjadi budak. Dia merupakan salah satu sahabat Nabi yang dipilih untuk mengumandangkan azan pada zamannya. Peristiwa tersebut terjadi pada tahun pertama Hijriah.\n\n    Ketika dia ketahuan memeluk agama Islam, dia terus-terusan disiksa setiap hari oleh sang majikan agar meninggalkan Islam.\n\n    Abu Bakar menemukan Bilal bin Rabah di bawah terik matahari. Saat itu, dia sedang mendapat hukuman dari majikannya bernama Umayyah di tengah padang pasir yang sangat panas dan lehernya pun diikat.\n\n    Bilal ditelentangkan menghadap matahari dan dadanya ditindih dengan batu yang sangat besar sehingga membuat napas Bilal terasa sesak.\n\n  Dikutip dari buku Kisah azan Terakhir Sahabat Nabi Bilal bin Rabbah, karya Muham Sakura Dragon, Umayyah dengan kejamnya menyiksa Bilal dan berkata, Kamu tidak akan kulepaskan dari siksaan ini hingga kamu mau mendustakan Muhammad dan kembali mengikuti agamamu yang dulu. Sembahlah Latta dan Uzza, ucap Umayyah dengan lantang.\n\n    Bilal pun hanya dapat menjawab dengan lirih Ahad! Ahad! Ahad! dia bermaksud mengucap Allahu Ahad (Allah Maha Esa).\n\n   Sang majikan melakukan itu semua karena ingin mengembalikan Bilal kepada ajaran agamanya yang lama. Abu Bakar membebaskan Bilal dengan membelinya dari Umayyah. Kemudian Bilal dibawa Abu Bakar menuju ke rumahnya untuk dirawat dan diobati luka-lukanya.\n\n  Pada saat Rasulullah hijrah menuju Madinah, Bilal senantiasa menemani dan menjaga Rasullulah kemana pun, termasuk dalam setiap peperangan. Awalnya untuk mengetahui waktu salat, umat Islam berkumpul terlebih dahulu untuk menentukan waktu salat.\n\n Karena menyulitkan akhirnya Nabi Muhammad memanggil salah satu umat untuk membunyikan terompet. Namun Rasullullah mengubahnya, dia beranggapan jika orang Yahudi menggunakan cara yang sama untuk memanggil kaumnya.\n\n    Tiba-tiba datanglah sahabat Nabi bernama Abdullah bin Zaid. Abdullah bin Zaid bermimpi bahwa ia bertemu seorang pria yang menggunakan dua helai kain berwarna hijau sambil membawa lonceng. Dia menawarkan diri untuk membeli bel tersebut, bel tersebut akan digunakan untuk memanggil orang-orang untuk salat.\n\n     Selain itu Bilal mempunyai suara keras sehingga dapat menjangkau jarak jauh sekalipun. Bilal menjadi muadzin pertama yang mengumandangkan azan di kota Madinah.\n\n    Bilal sangat menikmati perannya sebagai muadzin, hingga suatu ketika Rasulullah meninggal dunia. Bilal bersiap untuk mengumandangkan azan pertamanya setelah Rasul meninggal. Namun saat dia berucap Allahu Akbar dan hendak mengucap nama Rasulullah, dia tidak kuasa menahan kesedihan itu.\n\n   Bilal menangis terisak-isak hingga dia tidak dapat meneruskan azannya. Dia lalu berkata bahwa tidak akan pernah lagi mengumandangkan azan. Bilal meminta Abu Bakar untuk membiarkannya pergi ke Suriah dan kemudian menetap di Kota Damakus hingga akhir hayatnya.\n\n  Setelah Rasulullah SAW wafat, Bilal hanya mengumandangkan azan sebanyak dua kali, yakni saat Umar bin Khattab datang ke Damakus dan ketika dia mengunjungi makam Rasulullah SAW di Madinah.
+    "
+            android:id="@+id/textView5"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </ScrollView>
+
+</RelativeLayout>

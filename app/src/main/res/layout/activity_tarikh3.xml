@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Tarikh3">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="  Nabi Muhammad SAW merupakan seorang Nabi dan Rasul akhir zaman, dan ia sebagai penutup Nabi-nabi. Nabi Muhammad orang yang memiliki akhlaq yang sempurna. Umat muslim dan orang-orang yang beriman harus mengikuti segala petunjuk dan risalah yang dibawa oleh Muhammad.\n\n
+
+    Nabi Muhammad SAW meskipun telah dijamin masuk surga oleh Allah SWT, namun ia tetap merasa dirinya harus patuh dan tunduk serta menjalankan segala perintah Allah. Selain sebagai Nabi dan Rasul yang membawa ajaran dan kitab akhir zaman yaitu Al- Quran, Rasulullah tetap merasa dirinya sama dengan manusia-manusia lain yang harus memenuhi kebutuhan sehari-harinya.\n\n
+    Sejak kecil Nabi Muhammad telah ikut Pamannya berdagang. Paman Rasul yang bernama Abdul Muthalib adalah orang yang merawat Muhammad sejak berusia delapan tahun. Meskipun Abdul Muthalib merupakan seorang yang disegani oleh masyarakat Quraisy dan hidup dalam kecukupan, Nabi Muhammad tetap membantu meringankan beban pamannya, dengan ikut berdagang. Nabi pun telah ikut dengan para khafilah dagang Arab untuk berdagang hingga ke luar negeri seperti negara Syam (Syria sekarang) sejak usianya telah memasuki usia 12 tahun.\n\n
+
+    Setelah usianya memasuki 15 tahun, Nabi Muhammad memutuskan untuk berdagang sendiri seperti berdagang pakaian. Dalam berdagang rasulullah telah dikenal sebagai pedagang yang jujur, amanah, sopan santun, menghormati pelanggan, tepat janji, dan tidak pernah menjual barang dagangan yang  tidak layak jual.\n\n
+
+    Semua transaksi yang dilakukan oleh Nabi dengan para pelanggannya selalu atas dasar sukarela, dengan ijab dan kabul. Kejujurannya tersebut  dan integritasnya sehingga ia pun diberi gelar Al Amin, yaitu orang yang dapat dipercaya.\n\n
+
+    Dalam buku Muhammad A Trader, penulis Afzalur Rahman mengatakan bahwa, menginjak usia 17 tahun Rasulullah telah memimpin khalifah dagang hingga ke luar negeri. Reputasi dan integritasnya sangat cemerlang. Dia dikenal di Syam, Yaman, Yordania, Irak, dan pusat-pusat perdagangan lain. Tercatat 17 negara telah ia kunjungi untuk berdagang. Reputasi Nabi Muhammad sebagai pedagang yang jujur dan amanah telah ia sematkan sejak usia belia.\n\n
+
+    Kejujuran Muhammad dalam berdagang menarik perhatian seorang pedagang kaya raya yang juga janda bernama Siti Khadijah. Khadijah telah meminta Muhammad untuk memutarkan modal yang dimilikinya. Kepercayaan yang diberikan Khadijah tidak di sia-siakan oleh Nabi. Terbukti Rasulullah berhasil dalam melipat gandakan kekayaan Khadijah.\n\n
+
+    Satu hal yang istimewa dari cara Rasulullah berbisnis ialah tidak mencari laba semata, melainkan terjalinnya hubungan silahtuhrahmi dan keridhaan dari Allah. Bahkan ia sangat sering memberikan barang dagangannya kepada orang-orang yang memang benar-benar tidak sanggup untuk membayar.\n\n
+
+    Seringnya Nabi Muhammad memberikan utang kepada orang-orang yang lemah dan tak sanggup membayar tidak membuatnya rugi dalam berdagang. Semua pihak sangat senang melakukan transaksi bisnis dengan Muhammad. Walaupun tanpa menggunakan cara-cara licik dan melakukan penipuan, keuntungan yang Rasulullah raih selalu besar. sejarah mencatat bahwa Muhammad adalah pedagang paling sukses dalam masyarakat Qurasy pada zamannya.
+
+"/>
+    </ScrollView>
+</RelativeLayout>

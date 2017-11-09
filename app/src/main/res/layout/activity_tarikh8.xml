@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh8"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Tarikh8">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="  Sungguh beruntungnya kaum muslim yang diberikan iman untuk mempercayai perjalanan nabi Muhammad SAW ketika Isra Mi'raj. Padahal masih banyak kaum kafir yang enggan mempercayai perjalanan ini, yah mereka memang memakai akal pikiran manusia yang terbatas, namun mereka tidak mengetahui kekuasaan Allah SWT yang tak terbatas.\n\n
+
+    Isra adalah perjalanan Rasulullah SAW dari Masjidil Haram di Mekkah menuju ke Masjidil Aqsa di Yerussalem (Palestina). Sedangkan Mi'raj (Mikraj) adalah perjalanan nabi Muhammad SAW dari masjidil Aqsa menuju ke langit ke-7 dan Sidratul Muntaha untuk menerima perintah Shalat langsung dari Allah SWT.\n\n
+
+    Dalam perjalanan Isra Mi'raj, Rasulullah ditemani malaikat Jibril dan menaiki Buraq (hewan surga yang berwarna putih, lebih besar dari keledai dan lebih kecil dari bighal, larinya sangat kencang). Rasulullah SAW sampai di Masjidil Aqsa dan beliau SAW shalat di sana, bersama dengan para nabi ran rasul lain yang sudah berkumpul.\n\n
+
+    Kemudian Jibril membawakan 2 minuman kepada nabi Muhammad SAW, yang satu adalah susu dan yang satu adalah khamr. Nabi SAW memilih susu sebagai minumannya, dan Jibril mengatakan bahwa nabi Muhammad SAW beserta kaumnya sangat beruntung karena pilihan itu."/>
+    </ScrollView>
+
+</RelativeLayout>

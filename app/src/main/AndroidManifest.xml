@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pulau.com.materikeagamaan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Akhlaq" />
+        <activity android:name=".Aqidah" />
+        <activity android:name=".Aqidah1"/>
+        <activity android:name=".Aqidah2" />
+        <activity android:name=".Aqidah3" />
+        <activity android:name=".Aqidah4" />
+        <activity android:name=".Aqidah5" />
+        <activity android:name=".Aqidah6"
+        android:screenOrientation="landscape"
+        android:label="@string/app_name" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity android:name=".Azan"/>
+        <activity android:name=".Azan1" />
+        <activity android:name=".Azan2" />
+        <activity android:name=".Azan3" />
+        <activity android:name=".Belajar" />
+        <activity android:name=".Berteman" />
+        <activity android:name=".Bthq"
+            android:screenOrientation="landscape"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Doa" />
+        <activity android:name=".doa1" />
+        <activity android:name=".doa6" />
+        <activity android:name=".doa8" />
+        <activity android:name=".doa10" />
+        <activity android:name=".doa12" />
+        <activity android:name=".doa13" />
+        <activity android:name=".doa15" />
+        <activity android:name=".doa16" />
+        <activity android:name=".falaq" />
+        <activity android:name=".fatihah" />
+        <activity android:name=".Ibadah" />
+        <activity android:name=".ikhlas" />
+        <activity android:name=".Info" />
+        <activity android:name=".kaafiirun" />
+        <activity android:name=".Keluarmasuk" />
+        <activity android:name=".lahab" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Makan" />
+        <activity android:name=".naas" />
+        <activity android:name=".nashr" />
+        <activity android:name=".Profil" />
+        <activity android:name=".Sholat" />
+        <activity android:name=".Surat" />
+        <activity android:name=".Tarikh" />
+        <activity android:name=".Tarikh1" />
+        <activity android:name=".Tarikh2" />
+        <activity android:name=".Tarikh3" />
+        <activity android:name=".Tarikh4" />
+        <activity android:name=".Tarikh5" />
+        <activity android:name=".Tarikh6" />
+        <activity android:name=".Tarikh7" />
+        <activity android:name=".Tarikh8" />
+        <activity android:name=".Tarikh9" />
+        <activity android:name=".Thoyyibah" />
+        <activity android:name=".Wudhu" />
+        <activity android:name=".Wudhu1" />
+        <activity android:name=".Wudhu2" />
+        <activity android:name=".Wudhu3" />
+        <activity android:name=".Wudhu4" />
+        <activity android:name=".niat" />
+        <activity android:name=".iftitah" />
+        <activity android:name=".rukuk" />
+        <activity android:name=".ihtidal" />
+        <activity android:name=".sujud" />
+        <activity android:name=".duduk" />
+        <activity android:name=".tahyad1" />
+        <activity android:name=".tahyad2"/>
+        <activity android:name=".salam">
+
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_naas"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.naas">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="Surat An Naas\n\n
+             بِسْم اللهِ الرَّحْمٰن الرَّحِيْمِ           \n\n     ِ
+Dengan nama Allah yang Maha Pengasih lagi Maha Penyayang.\n\n
+قُلْ أَعُوذُ بِرَبِّ النَّاسِ\n\n
+1. Katakanlah: Aku berlindung kepada Tuhan (yang Memelihara dan Menguasai) manusia\n\n
+مَلِكِ النَّاسِ\n\n
+2. Raja Manusia.\n\n
+إِلٰهِ النَّاسِ\n\n
+3. Sesembahan manusia.\n\n
+مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ\n\n
+4. Dari kejahatan (bisikan) setan yang biasa bersembunyi.\n\n
+    الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِالنَّاسِ\n\n
+5. Yang membisikan kejahatan ke dalam dada manusia.\n\n
+\n    مِنَ الْجِنَّةِ وَالنَّاسِ\n
+6. Dari (golongan) jin dan manusia.\n\n\n\n\n\n\n\n\n\n"
+            android:id="@+id/textView"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

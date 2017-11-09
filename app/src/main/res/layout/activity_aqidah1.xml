@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_aqidah1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Aqidah1">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/bg"
+        android:textSize="15dp"
+        android:text="1. MALAIKAT\n\n
+- Para Malaikat di ciptakan dari Nur (Cahaya), \n
+- Malikat Roqib, Atid, 8 Hamlatul Arsy, Muharobin di ciptakan dari Jasad Malaikat Israfil\n
+- Malaikat Karobiyyun di ciptakan dari Air mata Malikat Mikail\n
+- Malaikat Ruhaniyyun di ciptakan dari Air yang menetes dari Sayap Malikat Jibril\n\n
+
+2. BIDADARI\n\n
+
+- Rasulullah Muhammad SAW bersabda, “ALLAH SWT menciptakan wajah bidadari dari empat warna, yaitu putih, hijau, kuning, dan merah. ALLAH menciptakan tubuhnya dari minyak Za’faran, misik, anbar, dan kafur. Rambutnya dari sutra yang halus. Mulai dari jari-jari kakinya sampai ke lututnya dari Za’faran dan wewangian. Dari lutut sampai payudara dari misik. Dari payudara sampai lehernya dari Anbar, Dan dari leher sampai kepalanya terbuat dari Kafur. Seandainya bidadari itu meludah sekali di dunia, maka jadilah semua air di dunia Kasturi. Di dadanya tertulis nama suaminya dan nama-nama ALLAH SWT. Pada setiap tangan dari kedua tangannya terdapat sepuluh gelang dari emas, sedangkan pada jari-jarinya terdapat sepuluh cincin, dan pada kedua kakinya terdapat sepuluh binggal(gelang kaki) dari Jauhar dan permata.\n
+- riwayat lain menjelaskan bahwa Bidadari diciptakan dari tetesan hujan dari awan di bawah Arsy dan Bidadari diciptakan langsung jadi gadis perawan dan terus gadis perawan.\n\n
+
+3. IBLIS\n\n
+Iblis diciptakan dari api seperti semua jenis jin. Dikatakan ia diciptakan dari “nyala api yang berkobar” yaitu dari sisi nyala api yang paling bersih dan paling baik.\n\n
+
+4. JIN \n\n
+- Jin diCiptakan dari Lidah Nyala Api yaitu nyala api yang warnanya Kuning dan keHijauan yang membumbung ke atas ketika Api dinyalakan (HR. Abu Abdullah Al-Faryan) \n
+- Jin itu diciptakan dari Api Matahari (HR. Ibnu Abu Hatim)\n\n
+
+” Sesungguhnya jin dan para pengikutnya melihat kamu dari suatu tempat yang kamu tidak bisa melihat mereka.” (Al Quran, surat Al A’raf : 27)\n
+Makhluk ciptaan Allah dapat dibedakan antara yang bernyawa dan tak bernyawa. Di antara yang bernyawa adalah jin. Kata jin menurut bahasa (Arab) berasal dari kata ijtinan yang berarti istitar (tersembunyi). Jadi jin menurut bahasa berarti sesuatu yang tersembunyi dan halus, sedangkan setan ialah setiap yang durhaka dari golongan jin, manusia atau hewan. Iblis adalah gembongnya setan.\n
+Apakah Jin itu?\n
+Jin dinamakan jin karena wujudnya yang tersembunyi dari pandangan mata manusia. Firman Allah, “Sesungguhnya ia (jin) dan pengikut-pengikutnya melihat kamu dari suatu tempat yang kamu tidak bisa melihat mereka.”(QS. Al A’raf 27).\n
+Kalau pun ada manusia yang dapat melihat jin, jin yang dilihatnya itu adalah yang sedang menjelma dalam wujud makhkuk yang dapat dilihat mata manusia biasa. Dalam sebuah hadis, Nabi SAW bersabda, “Setan memperlihatkan wujud (diri)nya ketika aku shalat, namun atas pertolongan Allah, aku dapat mencekiknya hingga kurasakan dingin air liurnya di tanganku. Kalau bukan karena adanya doa saudaraku Nabi Sulaiman, pasti kubunuh dia.”(HR Al Bukhari).\n
+Asal kejadian Jin\n
+Kalau manusia pertama diciptakan dari tanah, maka jin diciptakan dari api yang sangat panas. Allah berfirman, “Dan Kami telah menciptakan jin sebelum (Adam) dari api yang sangat panas.” (QS. Al Hijr: 27). “Dan Kami telah menciptakan jin dari nyala api.” (QS. Ar Rahman : 15)\n
+Rasulullah bersabda, “Malaikat diciptakan dari cahaya, jin diciptakan dari nyala api dan Adam diciptakan dari apa yang disifatkan (diceritakan) kepada kamu [yaitu dari air sperma dan ovum].” (HR Muslim dari Aisyah di dalam kitab Az- Zuhd dan Ahmad di dalam Al Musnad).\n
+Bagaimana wujud api yang merupakan asal kejadian jin, Al Quran tidak menjelaskan secara rinci, dan Allah pun tidak mewajibkan kita untuk meneliti-nya secara detail. Ibnu Abbas, Ikrimah, Mujahid dan Adhdhak berpendapat bahwa yang dimaksud “api yang sangat panas” (nar al-samum) atau “nyala api” (nar) dalam firman Allah di atas ialah “api murni”. Ibnu Abbas pernah pula mengartikannya “bara api”, seperti dikutip dalam Tafsir Ibnu Katsir.\n
+Mengubah bentuk\n
+Setiap makhluk diberi Allah kekhususan atau keistimewaan tersendiri. Salah satu kekhususan jin ialah dapat mengubah bentuk. Misalnya jin kafir (setan) pernah menampakkan diri dalam wujud orang tua kepada kaum Quraisy sebanyak dua kali. Pertama, ketika kaum Quraisy berkonspirasi untuk membunuh Nabi SAW di Makkah. Kedua, dalam Perang Badr pada tahun kedua Hijriah, seperti diungkapkan Allah di dalam surat Al Anfal: 48.\n
+Apakah jin juga mati?\n
+Jin beranakpinakdan berkembang biak. Allah memperingatkan manusia agar tidak terkecoh menjadikan iblis (yang berasal dari golongan jin) dan keturunan-keturunannya sebagai pemimpin sebab mereka telah mendurhakai perintah Allah (QS. Al Kahfi: 50).\n
+Banyak orang menganggap bahwa jin bisa hidup terus dan tidak pernah mati, namun sebenarnya ada hadis yang diriwayatkan Bukhari dan Muslim, di mana Nabi SAW berdoa: “Anta al-hayyu alladzi la yamutu, wa al-jinnu wa al-insu yamutuna – Ya Allah, Engkau hidup tidak mati, sedangkan jin dan manusia mati.” (Bukhari: 7383, Muslim : 717)\n
+Tempat-tempat Jin\n
+Banyak perbedaan antara manusia dengan jin, namun persamaannya juga ada, di antaranya sama-sama menghuni bumi. Bahkan jin telah mendiami bumi sebelum adanya manusia dan kemudian jin juga bisa tinggal bersama manusia di rumah manusia, tidur di ranjang dan makan bersama manusia. Tempat yang paling disenangi jin adalah WC, tempat manusia membuka aurat. Agar aurat kita terhalang dari pandangan jin ketika kita masuk ke dalam WC, hendaknya kita berdoa yang artinya, “Ya Allah, aku berlindung kepadaMu dari (gangguan) setan laki-laki dan setan perempuan.” (HR At-Turmudzi).\n
+Setan suka berdiam di kubur dan di tempat sampah. Apa sebabnya, Quran sengaja tak menjelaskan secara rinci. Mungkin karena kuburan sering dijadikan sebagai tempat bermeditasi oleh tukang sihir (paranormal). Nabi SAW melarang kita tidur menyerupai setan. Setan tidur di atas perutnya (tengkurap) dan bertelanjang. Manusia yang tidur dalam keadaan bertelanjang menarik perhatian setan untuk mempermainkan auratnya.\n
+Setan selalu mendampingi manusia\n
+Sudah menjadi komitmen setan akan senantiasa menggoda manusia agar durhaka kepada Allah. Oleh karena itu setan terus menerus mengincar manusia, setiap saat menyertai manusia sehingga setan itu disebut pula sebagai qarin bagi manusia, artinya “yang menyertai” manusia. Setiap manusia disertai setan yang selalu memperdayakannya, bahkan manusia dan qarin-nya akan bersama-sama pada hari berhisab nanti. Allah berfirman, artinya: “Yang menyertai dia (qarin-nya) berkata (pula): “Ya Tuhan kami, aku tidak menyesatkannya tetapi dialah yang berada dalam kesesatan yang jauh.” (QS. Qaf: 27)."
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView2" />
+</ScrollView>
+</RelativeLayout>

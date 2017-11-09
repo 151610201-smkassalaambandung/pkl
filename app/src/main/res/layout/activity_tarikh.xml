@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/uin"
+    tools:context="pulau.com.materikeagamaan.Tarikh">
+
+    <TextView
+        android:text="Kisah Nabi Muhammad SAW dan Keteladanannya"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:textColor="#ff000000"
+        android:fontFamily="cursive"/>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:text="Kisah Kelahiran Nabi Muhammad SAW"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#fae246"
+                android:layout_marginTop="15dp"
+                android:id="@+id/button1" />
+
+            <Button
+                android:text="Nabi Muhammad Yatim Piatu"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#7bc662"
+                android:layout_marginTop="10dp"
+                android:id="@+id/button2" />
+
+            <Button
+                android:text="Nabi Muhammad Berdagang"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#51ffdf"
+                android:layout_marginTop="10dp"
+                android:id="@+id/button3" />
+
+            <Button
+                android:text="Nabi Muhammad Mendapat Gelar"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#5549ff"
+                android:layout_marginTop="10dp"
+                android:id="@+id/button4" />
+
+            <Button
+                android:text="Nabi Muhammad Menikah"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#f98f3f"
+                android:layout_marginTop="10dp"
+                android:id="@+id/button5" />
+
+            <Button
+                android:text="Nabi Muhammad Diangkat Menjadi Rasul"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#f94ef9"
+                android:layout_marginTop="10dp"
+                android:id="@+id/button6" />
+
+            <Button
+                android:text="Nabi Muhammad dan Anak Yatim"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#4efc42"
+                android:layout_marginTop="10dp"
+                android:id="@+id/button7" />
+
+            <Button
+                android:text="Nabi Muhammad Isro Mi'raj"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#fa3e90"
+                android:layout_marginTop="10dp"
+                android:id="@+id/button8" />
+
+            <Button
+                android:text="Nabi Muhammad Wafat"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:textColor="#ff000000"
+                android:background="#d5fc3b"
+                android:layout_marginTop="10dp"
+                android:id="@+id/button9" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

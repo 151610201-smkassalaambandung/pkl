@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Tarikh1">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="15dp"
+            android:text="  Pada kesempatan kali ini akan diceritakan mengenai Kisah Nabi Muhammad SAW, dimana akan diceritakan mengenai kisah Kelahiran Nabi Muhammad SAW.\n\n
+
+    Di Kala umat manusia dalam kegelapan dan kehilangan pegangan hidup, lahirlah Nabi Muhammad SAW dari keluarga yang sederhana, di kota Mekah, yang kelak akan membawa perubahan sangat besar bagi sejarah peradaban dunia. Nabi Muhammad SAW ini yatim; bapaknya yang bernama Abdullah bin Abdul Muthalib bin Hasyim, meninggal sekitar 7 bulan sebelum Nabi Muhammad SAW lahir.\n\n
+
+    Kehadiran bayi (Nabi Muhammad SAW) itu disambut oleh kakeknya, Abdul Muthalib bin Hasyim bin Abdi Manaf dengan penuh kasih sayang dan kemudian Nabi Muhammad SAW di bawanya ke kaki Ka'bah. Ditempat suci inilah sang bayi itu diberi nama Ahmad (Muhammad) suatu nama yang belum pernah ada sebelumnya.\n\n
+
+    Nabi Muhammad SAW lahir tanggal 12 Rabiulawal tahun Gajah atau 20 April 571 Masehi. Dinamakan tahun Gajah karena pada tahun itu kota Mekkah diserang pasukan tentara bergajah yang kuat dibawah pimpinan Abrahah al Ashram, gubernur Yaman dari kerajaan Nasrani Abesina (Habasyah atau Ethiopia) yang bermaksud menghancurkan Ka'bah.\n\n
+
+    Nabi Muhammad SAW merupakan putera pasangan Abdullah bin Abdul Muthalib dan Aminah binti Wahab. Ayah Nabi Muhammad SAW Abdullah ialah putera pasangan Abdul Muthalib bin Hasyim dan Fatimah binti 'Amr. Abdullah adalah saudara kandung Abu Thalib dan Az-Zubair.\n\n
+
+    Sebelum kelahiran Nabi Muhammad SAW, Abdul Muthalib pernah bermimpi bahwa cucunya (Nabi Muhammad SAW) kelak akan menjadi orang besar yang mempunyai banyak pengikut. Sedangkan ketika mengandung Nabi Muhammad SAW, Aminah Binti Wahab tidak merasakan dirinya kelelahan seperti yang biasa dialami oleh kebanyakan perempuan hamil; sampai datang seorang malaikat yang berkata: sesungguhnya engkau telah mengandung pemimpin dan Nabi umat ini dan yang demikian itu terjadi pada hari senin. Kemudian malaikat itu datang lagi dan berkata: katakanlah wahai Aminah: 'Aku memohon perlindungan kepada Allah yang Maha Esa untuk anak ini dari kejahatan semua yang memiliki rasa hasad.' Lalu Aminah diperintahkan untuk memberi nama anak yang akan dilahirkannya itu Ahmad.\n\n
+
+    Dari garis Bapak dan Ibu, Nabi Muhammad SAW adalah bangsawan Arab. Sudah menjadi kebiasaan mereka menyusukan dan menitipkan bayi kepada wanita badiyah (dusun di padang pasir) aagar mendapat udara bersih, bebas dari penyakit kota dan fasih berbahasa yang murni. Setelah beberapa pekan Nabi Muhammad SAW disusui oleh Tsuwaibah, budak Abu Lahab, beliau dititipkan kepada Halimah binti Abu Dzu'aib, isteri dari Harits bin Abdul 'Uzza bin Rifa'ah dari Bani Sa'ad bin Bakar, kabilah Hawazin. Saudara-saudara sesusun beliau ialah Abdullah, Unaisah dan Khidamah. Kesemuanya dari Bani Al-Harits, oleh karena itu Nabi Muhammad SAW menolak ketika hendak diinikahkan dengan Khidamah. Di tempat yang tidak jauh dari kota Mekkah Nabi Muhammad SAW diasuh dan dibesarkan oleh Halimah sampai beliau berusia lima tahun.\n\n
+"/>
+    </ScrollView>
+</RelativeLayout>

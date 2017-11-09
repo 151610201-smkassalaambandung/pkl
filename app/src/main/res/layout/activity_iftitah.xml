@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_iftitah"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.iftitah">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="
+1.Berdiri tegak menghadap kiblat dan niat mengerjakan sholat.\n\n
+Niat shalat menurut sholat yang sedang dikerjakan, misalnya sholat subuh dan sebagainya.\n\n
+Lalu mengangkat kedua belah tangan serta membaca ALLAHU AKBAR,\n\n
+اَللهُ اَ كْبَرُ\n\n
+Setelah takbiratul ihram kedua belah tangannya disedekapkan pada dada. kemudian membaca do'a iftitah.\n\n
+2.Bacaan Do'a Iftitah\n\n
+
+
+\nاَللهُ اَكْبَرْكَبِيْرًا وَاْلحَمْدُ لِلهِ كَشِيْرًا وَسُبْحَانَ للهِ بُكْرَةً وَاَ صِيْلَا\n\n
+
+Bacaannya: Allahu akbar kabiraa wal-hamdu lillahi katsiiraa wa subhaanallaahi bukrataw wa ashiilaa.\n\n
+
+
+
+اِنِّيْ وَجَّهْتُ وَجْهِيَ لِلَّذِيْ فَطَرَ السَّمَوَاتِ وَاْلاَرْضِ حَنِيْفًامٌسْلِمًاوَمَ اَنَامِنَ اْلمُشْرِكِيْنَ\n\n
+
+Bacaannya: Innii wajjahtu wajhiya lil-laadzii fatharas-samaawaati wal ardha haniifam muslimaw wa maa ana minal-musyrikiin.\n\n
+
+اِنَّ صَلَا تِيْ وَنُسُكِيْ وَمَحْيَايَ وَمَمَا تِيْ لِلَّهِ رَبِّ اْلعَالَمِيْنَ لَاشَرِيْكَ لَهُ وَبِذَ لِكَ اُمِرْ تُ وَاَنَامِنَ \n\n
+                                                                                               \n اْلمُسْلِمِيْنَ
+
+Bacaannya: Inna shalaatii wa nusukii wa mahyaaya wa mamaatii lillaahi rabbil -'aalamiin. Laa syariikalahu wa bi dzaalika umirtu wa ana minal -muslimiin.\n\n
+
+Artinya :\n\n
+
+Allah Maha Besar lagi Sempurna Kebesaran-Nya, segala puji bagi-Nya dan Maha Suci Allah sepanjang pagi dan sore. Kuhadapkan muka hatiku kepada Dzat yang menciptakan langit dan bumi dengan keadaan lurus dan menyerahkan diri dan aku bukanlah dari golongan kaum musyirikin. Sesungguhnya shalatku, ibadatku, hidupku dan matiku semata hanya untuk Allah, Tuhan seru sekalian alam. Tidak ada sekutu bagi-Nya dan dengan itu aku diperintahkan untuk tidak menyekutukan-Nya. Dan aku dari golongan orang muslimin.\n\n
+
+   3.Surat Al-Fatihah\n\n
+
+        Selesai membaca do'a iftitah, kemudian membaca surat Fatihah sebagai berikut:\n\n
+
+                                                               \n\n                       بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ
+        الْحَمْدُ للهِ رَبِّ الْعَالَمِيْنَ, الرَّحْمَـنِ الرَّحِيْمِ, مَالِكِ يَوْمِ الدِّيْنِ, إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِيْنُ, اِهْدِنَا الصِّرَاطَ المُستَقِيْمَ, صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيهِمْ, غَيْرِ المَغْضُوْبِ عَلَيْهِمْ وَلاَ الضَّالِّيْنَ. آمِيْنَ\n\n
+
+        Bacaannya:\n\n
+
+        Bismillaahir-rahmaanir-rahiim\n\n
+        Al-hamdu lillaahi rabbil-'aalamiin\n\n
+        Ar-rahmaanir-rahiim\n\n
+        Maaliki yaumid-diin\n\n
+        Iyyaaka na'budu wa iyyaaka nasta'iin\n\n
+        Ihdinash-shiraatal-mustaqiim\n\n
+        Shiraatal-ladziina an'amta 'alaihim\n\n
+        Ghairil-maghdhuubi 'alaihimwa ladh-dhaalliin\n\n
+        Aamiin\n\n
+
+        Artinya :\n\n
+
+        Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang\n\n
+        Segala puji bagi Allah, Tuhan seru sekalian alam\n\n
+        Yang Pengasih dan Penyayang\n\n
+        Yang menguasai hari kemudian\n\n
+        Pada-Mulah aku mengabdi dan kepada-Mulah aku meminta pertolongan\n\n
+        Tunjukilah kami ke jalan yang lurus\n\n
+        Bagaikan jalan mereka yang telah Engkau beri nikmat\n\n
+        Bukan jalan mereka yang pernah Engkau murkai, atau jalannya orang-orang yang sesat.\n\n
+
+        4.Surat-Surat Pendek Dan Mudah Dihafal:\n\n
+
+        Selesai membaca fatihah dalam raka'at yang pertama dan kedua bagi orang yang shalat sendirian atau imam, diisunahkan membaca surat attau ayat Al-Qur'an.\n\n
+
+        Surat-surat yang dibaca dalam shalat antara lain:\n\n
+        Surat An-Nas\n\n
+
+ \n\n       بِسْمِ اللهِ الرَّحْمنِ الرَّحِيْمِ 
+ \n\n       قُلْ أَعُوذُ بِرَبِّ النَّاسِ, مَلِكِ النَّاسِ, إِلهِ النَّاسِ, مِنْ شَرِّ الْوَسْواسِ الْخَنَّاسِ, الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ, مِنَ الْجِنَّةِ وَالنَّاسِ
+
+        Bacaannya:\n\n
+
+        Bismillaahir-rahmaanir-rahiim\n\n
+        Qul a'uudzu bi rabbin-naas\n\n
+        Malikin-naas\n\n
+        Ilaahin-naas\n\n
+        Min Syarril-waswaasil-khannaas\n\n
+        Alladzii yuwaswisu fii shuduurin-naas\n\n
+        Minal-jinnati wan-naas.\n\n
+
+        Artinya :\n\n
+
+        Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Katakanlah (hai Muhammad)! Aku mohon perlindungan pada Tuhannya manusia. Yang menguasai manusia (yang menjadi) Tuhan manusia.\n\n
+        Mohon Perlindungan daripada kejahatan was-was (pengganggu hati) yang menggoda. Ialah hati yang menggoncangkan hati manusia. Baik dari jenis jin dan manusia.\n\n\n\n\n\n\n
+"/>
+
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>

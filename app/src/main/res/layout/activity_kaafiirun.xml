@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_kaafiirun"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.kaafiirun">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_height="fill_parent"
+            android:textColor="@color/bg"
+            android:layout_width="fill_parent"
+            android:textSize="16dp"
+            android:text="Surat Al Kafirun\n\n
+
+
+بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ\n\n
+Dengan nama Allah yang Maha pengasih lagi Maha penyayang\n\n
+
+قُلْ يٰآ أَيُّهَا الْكٰفِرُوْنَ\n\n
+1.	Katakanlah (Muhammad), Wahai orang-orang kafir!\n\n
+    لَآ أَعْبُدُ مَا تَعْبُدُوْنَ\n\n
+2.	aku tidak akan menyembah apa yang kamu sembah,\n\n
+    وَلَآ أَنْتُمْ عٰبِدُوْنَ مَآ أَعْبُدُ\n\n
+3.	dan kamu tidak akan menyembah apa yang aku sembah,\n\n
+    وَلَآ أَنَا عَابِدٌ مَا عَبَدْتُمْ\n\n
+4.	dan aku tidak akan pernah menyembah apa yang kamu sembah,\n\n
+    وَلَآ أَنْتُمْ عٰبِدُوْنَ مَآ أَعْبُدُ\n\n
+5.	dan kamu tidak pernah pula menyembah apa yang aku sembah.\n\n
+    لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ\n\n
+6. Bagimu agamamu, dan bagiku agamaku.\n\n\n\n\n\n\n\n\n\n
+    "/>
+    </ScrollView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

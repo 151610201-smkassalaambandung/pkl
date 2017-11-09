@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh6"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Tarikh6">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="  turunnya wahyu pertama QS. Al-A’la: 1-5 di gua Hira pd hari Senin di bulan Ramadan pd usia yg ke 40 menjadi awal kerasulan Muhammad saw. Wahyu pertama tersebut berisi: 1) Bacalah dgn nama Tuhanmu yg menciptakan, 2) Yg menciptakan manusia dr segumpal darah, 3) Bacalah, dan Tuhanmulah Yg Mahamulia, 4) Yg mengajari (manusia) dgn pena, 5) Dia mengajarkan manusia apa yg tidak diketahuinya.\n\n
+
+    Setelah menerima wahyu tersebut, Muhammad saw pulang menemui Khadijah dan mengungkapkan kekhawatirannya trhadap dirinya. Khadijah menenangkan:Bergembiralah! Demi Allah, Dia tidak akan pernah menyia-nyiakanmu. Demi Allah, engkau ini menghubungkan shilaturrahim (hubungan kerabat), berkata jujur, menanggung beban orang lemah, membantu orang yg tidak punya, memuliakan tamu, menolong orang-orang yg ditimpa bencana.\n\n
+
+    Khadijah lalu mempertemukannya dgn anak pamannya Waraqah bin Naufal, seorang pendeta Nasrani. Setelah menjelaskan peristiwa yg baru dialaminya di gua Hira, Waraqah menjelaskan bahwa yg datang kepd Muhammad saw itu yaitu malaikat yg pernah datang kepd nabi Musa As.\n\n
+
+    Andai kata aku masih hidup dan kuat di saat engkau diusir oleh kaummu kata Waraqah.\n\n
+
+    Apakah mreka akan mengusirku? Tanya Muhammad Saw.Ya, jawabnya. (lihat HR Bukhari dan Muslim).
+
+   "/>
+    </ScrollView>
+
+</RelativeLayout>

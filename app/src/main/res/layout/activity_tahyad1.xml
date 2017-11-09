@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tahyad1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.tahyad1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="9.Duduk Tasyahud / Tahiyat Awal:\n\n
+
+        Pada raka'at kedua, kalau shalat kita tiga raka'at atau empat raka'at, maka pada raka'at kedua ini kita duduk untuk membaca tasyahud / tahiyat awal, dengan duduk kaki kanan tegak dan telapak kaki kiri diduduki.\n\n
+
+        10.Bacaan Tasyahud / Tahiyat Awal\n\n
+
+        آلتَّحِيَّاتُ اْلمُبَارَكَاتُ الصَّلَوَاتُالطَّيِّبَاتُ لِلَّهِ اَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ اَلسَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِيْنَ أَشْهَدُ أَنْ لاَ إِلَـهَ إِلاَّ اللهُ وَأَشْهَدُ أَنَّ مُحَمَّدًارَسُوْلُ اللَّهِ اَللَّهُمَّ صَلِّ عَلَ سَيِّدِ نَامُحَمَّدٍ\n\n
+
+        Bacaannya:\n\n
+
+        At-tahiyyatuul-mubaarakaatush-shalawaatuth-thayyibaatu lillaah.\n\n
+        As-salaamu 'alaika ayyuhan-nabiyyu wa rahmatullaahi wa barakaatuh, as-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shaalihiin.\n\n
+        Asyhadu an laa ilaaha illallaah, wa ayhadu anna Muhammadar Rasulullaah.\n\n
+        Allahumma shalli 'alaa sayyidinaa Muhammad.\n\n
+
+        Artinya :\n\n
+
+        Segala kehormatan, keberkahan, kebahagiaan dan kebaikan bagi Allah.\n\n
+        Salam, rahmat dan berkah-Nya kupanjatkan kepadamu wahai Nabi (Muhammad).\n\n
+        Salam (keselamatan) semoga tetap untuk kami seluruh hamba yang shaleh-shaleh.\n\n
+        Aku bersaksi bahwa tiada Tuhan melainkan Allah.\n\n
+        Dan aku bersaksi bahwa Nabi Muhammad adalah utusan Allah.\n\n
+        Ya Allah! Limpahilah rahmat kepada Nabi Muhammad.\n\n\n\n\n\n
+"/>
+
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

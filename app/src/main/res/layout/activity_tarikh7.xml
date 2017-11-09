@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh7"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Tarikh7">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="  Ini kisah tentang Rasulullah dan seorang anak yatim di Madinah. Pada suatu pagi di hari raya Idul Fitri, Rasulullah SAW bersama keluarganya dan beberapa sahabatnya seperti biasanya mengunjungi rumah demi rumah untuk mendo’akan para muslimin dan muslimah agar merasa bahagia di hari raya itu. Alhamdulillah, semua terlihat merasa gembira dan bahagia di Hari Raya Ied tersebut, terutama anak-anak.  Anak-anak bermain sambil berlari-lari kesana kemari dengan mengenakan pakaian hari rayanya. Namun tiba-tiba Rasulullah saw melihat di sebuah sudut ada\n\n
+    seorang gadis kecil sedang duduk bersedih. Ia memakai pakaian tambal-tambal dan sepatu yang telah usang. Rasulullah saw lalu bergegas menghampirinya. Gadis kecil itu menyembunyikan wajahnya dengan kedua tangannya, lalu menangis tersedu-sedu. Rasulullah kemudian meletakkan tangannya yg putih sewangi bunga mawar itu dengan penuh kasih sayang di atas kepala gadis kecil tersebut, lalu bertanya dengan suaranya yang lembut :\n\n
+    “Anakku, mengapa engkau menangis? Bukankah hari ini adalah hari raya?”\n
+    Gadis kecil itu terkejut bukan kepalang. Tanpa berani mengangkat kepalanya dan melihat siapa yang bertanya, perlahan-lahan ia menjawab sambil bercerita :\n\n
+
+
+    “Pada hari raya yang suci ini semua anak menginginkan agar dapat merayakannya bersama orang tuanya dengan berbahagia. Semua anak-anak bermain dengan riang gembiranya. Aku lalu teringat pada Ayahku, itu sebabnya aku menangis. Ketika itu hari raya terakhir bersamanya. Ia membelikan aku sebuah gaun berwarna hijau dan sepatu baru. Waktu itu aku sangat bahagia. Lalu suatu hari ayahku pergi berperang bersama Rasulullah membela Islam dan kemudian ia meninggal. Sekarang ayahku sudah tidak ada lagi Aku telah menjadi seorang anak yatim. Jika aku tidak menangis untuknya, lalu untuk siapa lagi?”\n\n
+
+
+    Setelah Rasulullah saw mendengar cerita itu, seketika hatinya diliputi kesedihan yang mendalam. Dengan penuh kasih sayang beliau membelai kepala gadis kecil itu sambil berkata:\n\n
+    “Anakku, hapuslah air matamu…Angkatlah kepalamu dan dengarkan apa yang akan aku katakan kepadamu…. Apakah kamu ingin agar aku Rasulullah menjadi ayahmu?   Dan apakah kamu juga ingin Ali menjadi pamanmu?. Dan apakah kamu juga ingin agar Fatimah menjadi kakak perempuanmu?….dan Hasan dan Husein menjadi adik-adikmu? dan Aisyah menjadi ibumu ?. Bagaimana pendapatmu tentang usul dariku ini?”\n\n
+
+    Begitu mendengar kata-kata itu, ia langsung berhenti menangis. Ia memandang dengan penuh takjub orang yang berada tepat di hadapannya. Gadis yatim kecil itu sangat tertarik pada tawaran Rasulullah SAW, namun entah mengapa ia tidak bisa berkata sepatah katapun. Ia hanya dapat menganggukkan kepalanya perlahan sebagai tanda persetujuannya.\n\n
+
+    Gadis yatim kecil itu lalu bergandengan tangan dengan Rasulullah saw menuju ke rumah. Sesampainya di rumah, wajah dan kedua tangan gadis kecil itu lalu dibersihkan dan rambutnya disisir. Semua memperlakukannya dengan penuh kasih sayang. Gadis kecil itu lalu dipakaikan gaun yang indah dan diberikan makanan dan uang hari raya. Lalu ia diantarnya gadis itu keluar, agar dapat bermain bersama anak-anak lainnya. Anak-anak lain merasa iri pada gadis kecil dengan gaun yang indah dan wajah yang berseri-seri itu. Mereka merasa keheranan, lalu ia berkata : “Akhirnya aku memiliki seorang ayah! Di dunia ini, tidak ada yang bisa menandinginya! Siapa yang tidak bahagia memiliki seorang ayah seperti Rasulullah? Aku juga kini memiliki seorang paman, namanya Ali yang hatinya begitu mulia. Juga seorang kakak perempuan, namanya Fatima Az`Zahra.  Ia menyisir rambutku dan mengenakanku gaun yang indah ini. Aku merasa sgt bahagia dan bangga memiliki adik adik, hasan dan husein Aku juga kini memiliki seorang ibu, namanya Aisyah, dan ingin rasanya aku memeluk seluruh dunia beserta isinya.”\n\n
+    Maka anak-anak yang sedang bermain dengannya sampai berkata: “Ah, seandainya ayah-ayah kita mati terbunuh ketika perang itu tentu kita akan begitu.”Syahdan tatkala Nabi saw meninggal dunia, anak kecil itu keluar seraya menaburkan debu ke atas kepalanya meminta tolong sambil memekik: “Aku sekarang menjadi anak asing dan yatim lagi.” Maka oleh Ali Bin Abi Thalib kw (dalam riwayat lain ABu Bakar Ash Shiddiq ra) anak itu dipungutnya."/>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_niat"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.niat">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="
+             * Niat Sholat Shubuh\n\n
+اُصَلّى فَرْضَ الصُّبْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n\n
+USHOLLII FARDHOSH SHUBHI ROK'ATAINI MUSTAQBILAL QIBLATI ADAA-AN MA'MUUMAN LILLAAHI TA'AALA.\n\n
+Artinya :
+Aku berniat shalat fardu Shubuh dua raka'at menghadap kiblat sebagai ma'mum karena Allah Ta'ala\n\n
+* Niat Sholat Zhuhur\n\n
+
+اُصَلّى فَرْضَ الظُّهْرِاَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n\n
+USHOLLII FARDHODL DHUHRI ARBA'A RAKA'AATIM MUSTAQBILAL QIBLATI ADAA-AN MA'MUUMAN LILLAAHI TA'AALA.\n\n
+Artinya :
+Aku berniat shalat fardu Dhuhur empat raka'at menghadap kiblat sebagai ma'mum karena Allah Ta'ala\n\n
+*Niat Sholat Ashar\n\n
+
+اُصَلّى فَرْضَ الْعَصْرِاَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n\n
+USHOLLII FARDHOL 'ASHRI ARBA'A RAKA'AATIM MUSTAQBILAL QIBLATI ADAA-AN MA'MUUMAN LILLAAHI TA'AALA.\n\n
+
+Artinya :
+Aku berniat shalat fardu 'Ashar empat raka'at menghadap kiblat sebagai ma'mum karena Allah Ta'ala\n\n
+*Niat Sholat Magrib\n\n
+
+اُصَلّى فَرْضَ الْمَغْرِبِ ثَلاَثَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n\n
+USHOLLII FARDHOL MAGHRIBI TSALAATSA RAKA'AATIM MUSTAQBILAL QIBLATI ADAA-AN MA'MUUMAN LILLAAHI TA'AALA.\n\n
+
+Artinya :
+Aku berniat shalat fardu Maghrib tiga raka'at menghadap kiblat sebagai ma'mum karena Allah Ta'ala\n\n
+*Niat Sholat Isya\n\n
+
+اُصَلّى فَرْضَ الْعِشَاءِ اَرْبَعَ رَكَعَاتٍ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً مَأْمُوْمًا ِللهِ تَعَالَى\n\n
+USHOLLII FARDHOL 'ISYAA'I ARBA'A RAKA'AATIM MUSTAQBILAL QIBLATI ADAA-AN MA'MUUMAN LILLAAHI TA'AALA.\n\n
+
+Artinya :
+Aku berniat shalat fardu 'Isya empat raka'at menghadap kiblat sebagai ma'mum karena Allah Ta'ala\n\n\n\n\n\n
+"/>
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

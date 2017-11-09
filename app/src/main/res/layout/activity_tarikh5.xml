@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Tarikh5">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="  Rasulullah menikah dengan  Khadijah  dalam 23 tahun, usia muda-remaja, dengan perawakan yang indah dan paras muka yang begitu tampan, gagah dan tegap. Namun sungguhpun begitu, Khadijah adalah tetap istri satu-satunya, selama 28 tahun, sampai  melampaui usia 50-an.\n
+
+    Nabi Muhammad hidup hanya dengan Khadijah selama 17 tahun sebelum kerasulannya dan 11 tahun sesudah itu. Dan pada waktu itu pun sama sekali tak  terlintas dalam pikirannya untuk menikah lagi dengan wanita lain. Baik pada masa Khadijah masih hidup, ataupun sebelum beliau menikah dengan Khadijah, belum pernah terdengar bahwa beliau termasuk orang yang mudah tergoda oleh   kecantikan wanita, padahal waktu itu mereka belum memakai hijab.\n
+
+    Setelah Khadijah wafat, Rasulullah menikah dengan Saudah binti Zam'ah, janda Sakran bin Amr bin Abd Syams. Tidak ada suatu sumber yang menyebutkan, bahwa Saudah adalah seorang wanita cantik, berharta atau mempunyai kedudukan yang akan memberi pengaruh duniawi dalam pernikahan itu.\n
+
+    Masalahnya, Saudah adalah istri orang yang termasuk mula-mula masuk lslam, termasuk orang-orang yang dalam membela agama Allah, turut memikul pelbagai macam penderitaan. Ia dan suaminya turut berhijrah ke Abisinia setelah dianjurkan Nabi berhijrah ke seberang lautan itu. Jika setelah itu Rasulullah kemudian menikahinya, adalah untuk memberikan perlindungan hidup dan untuk memberikan tempat setaraf dengan Ummul Mukminin.\n
+
+    Adapun Aisyah dan Hafshah adalah putri-putri dua orang pembantu dekatnya, Abu Bakar dan Umar. Segi inilah yang membuat Rasulullah mengikatkan diri dengan kedua orang itu, dengan ikatan semenda perkawinan dengan putri-putri mereka. Sama  juga halnya beliau mengikatkan diri dengan Usman dan Ali dengan jalan menikahkan kedua putrinya kepada mereka.\n
+
+    Kalaupun benar kata orang mengenai Aisyah serta kecintaan Rasulullah kepadanya, maka cinta itu timbul sesudah pernikahan, bukan ketika menikah. Gadis itu dipinangnya kepada orang tuanya tatkala ia berusia sembilan tahun dan dibiarkannya   dua tahun sebelum pernikahan dilangsungkan. Logika tidak akan menerima kiranya, bahwa beliau sudah mencintainya dalam usia yang masih begitu kecil. Hal ini diperkuat lagi oleh pernikahan beliau dengan Hafshah binti Umar yang juga bukan karena dorongan cinta berahi, dengan ayahnya sendiri sebagai saksi.\n
+
+    Suatu ketika Umar menemui Hafshah, putrinya. Anakku, kata Umar, Engkau  menentang Rasulullah SAW sampai ia merasa gusar sepanjang hari?\n
+        Hafshah menjawab, Memang kami menentangnya.
+
+    Engkau harus tahu, kata Umar.Kuperingatkan engkau akan siksaan Tuhan serta kemurkaan Rasul-Nya. Anakku, engkau jangan terpedaya oleh kecintaan orang yang  telah terpesona oleh kecantikannya sendiri dengan kecintaan Rasulullah SAW. Engkau sudah tahu bahwa Rasulullah tidak mencintaimu, dan kalau tidak karena aku, engkau tentu sudah diceraikan.\n\n
+
+    Telah kita lihat bukan, bahwa Rasulullah menikahi Aisyah atau Hafshah bukan  karena cintanya atau karena suatu dorongan berahi, tapi karena hendak memperkokoh ikatan masyarakat Islam yang baru tumbuh dalam diri dua orang pembantu dekatnya itu. Sama halnya ketika beliau menikahi Saudah, maksudnya supaya pejuang-pejuang   Muslimin itu mengetahui, bahwa kalau mereka gugur dalam membela agama Allah, maka istri dan anak-anak mereka tidak akan dibiarkan hidup sengsara dalam kemiskinan.\n\n
+
+    Pernikahan Rasulullah dengan Zainab binti Khuzaimah dan Ummu Salamah  mempertegas lagi hal tersebut. Zainab adalah istri Ubaidah bin Harits bin Muthalib yang syahid dalam Perang Badar. Dia tidak cantik, hanya terkenal karena kebaikan hatinya dan suka menolong orang, sampai ia diberi gelar Ummul Masakin (ibu orang-orang miskin). Umurnya pun sudah tidak muda lagi. Hanya setahun atau dua tahun sesudah itu, ia pun meninggal. Setelah Khadijah, dialah satu-satunya istri Nabi yang telah wafat mendahuluinya.\n\n
+
+    Sedangkan Ummu Salamah sudah banyak anaknya sebagai istri Abu Salamah, yang wafat akibat luka yang dideritanya dalam Perang Uhud. Empat bulan setelah  kematian Abu Salamah, Rasulullah meminang Ummu Salamah. Tetapi wanita ini menolak dengan lemah lembut karena ia sudah banyak anak dan sudah tidak muda lagi. Namun akhirnya, ia setuju dinikahi Rasulullah yang bertindak mengurus dan memelihara anak-anaknya.\n\n
+
+    Dari apa yang sudah diuraikan di atas, apakah yang dapat disimpulkan oleh penelitian sejarah yang murni? Yang dapat disimpulkan ialah bahwa Rasulullah menganjurkan   orang beristeri satu dalam kehidupan biasa. Beliau menganjurkan cara demikian seperti contoh yang sudah diberikannya selama masa Khadijah.\n\n
+
+    Untuk itu, Allah berfirman: Dan jika kamu takut tidak akan dapat berlaku adil terhadap (hak-hak) perempuan yang yatim (bilamana kamu mengawininya), maka kawinilah wanita-wanita (lain) yang kamu senangi : dua, tiga atau empat. Kemudian jika kamu takut tidak akan dapat berlaku adil, maka (kawinilah) seorang saja, atau budak-budak yang kamu miliki. Yang demikian itu adalah lebih dekat kepada tidak berbuat aniaya. (QS An-Nisaa': 3)\n\n
+
+    Dan kamu sekali-kali tidak akan dapat berlaku adil di antara isteri-isteri(mu), walaupun kamu sangat ingin berbuat demikian, karena itu janganlah kamu terlalu cenderung (kepada yang kamu cintai), sehingga kamu biarkan yang lain terkatung-katung. Dan jika kamu mengadakan perbaikan dan memelihara diri (dari kecurangan), maka sesungguhnya Allah Maha Pengampun lagi Maha Penyayang. (QS An-Nisaa': 129)\n\n
+
+    Ayat-ayat ini turun pada akhir-akhir tahun kedelapan Hijrah, setelah Rasulullah menikah dengan semua istrinya, maksudnya untuk membatasi jumlah istri itu sampai  empat orang, sementara sebelum turun ayat tersebut pembatasan tidak ada. Ini juga yang telah menggugurkan kata-kata orang, bahwa Rasulullah membolehkan untuk  dirinya sendiri dan melarang untuk orang lain. Kemudian turun ayat yang memperkuat diutamakannya satu istri dan menganjurkan demikian karena dikhawatirkan takkan berlaku adil, dengan penekanan bahwa bahwa berlaku adil itu tidak akan disanggupi.\n\n
+
+    Demikian pula dengan pernikahan Rasulullah dengan Zainab binti Jahsy, bekas istri Zaid, bekas budak dan anak angkatnya. Awalnya Rasulullah masih ragu dan cemas dengan perguncingan orang, karena beliau menikahi istri bekas budaknya.\n\n
+
+    Namun Allah SWT berfirman: Dan (ingatlah), ketika kamu berkata kepada orang yang Allah telah melimpahkan nikmat kepadanya dan kamu (juga) telah memberi nikmat kepadanya: Tahanlah terus istrimu dan bertakwalah kepada Allah, sedang kamu menyembunyikan di dalam hatimu apa yang Allah akan menyatakannya, dan kamu takut kepada manusia, sedang Allah-lah yang lebih berhak untuk kamu takuti. Maka tatkala Zaid telah mengakhiri keperluan terhadap istrinya (menceraikannya), Kami kawinkan kamu dengan dia supaya tidak ada keberatan bagi orang mukmin untuk (mengawini) istri-istri anak-anak angkat mereka, apabila anak-anak angkat itu telah menyelesaikan keperluannya daripada istrinya. Dan adalah ketetapan Allah itu pasti terjadi. (QS Al-Ahzab: 37)\n\n
+
+    Rasulullah SAW adalah suri tauladan dalam segala hal, yang oleh Allah telah diperintahkan dan telah dibebankan agar menyampaikan risalah-Nya kepada umat manusia. Beliau tidak takut akan apa yang dikatakan orang dalam hal perkawinannya dengan istri bekas budaknya itu. Takut kepada manusia tak ada artinya dibandingkan dengan takutnya kepada Allah dalam melaksanakan segala perintah-Nya. Beliau menikahi Zainab supaya menjadi teladan akan apa yang telah dihapuskan Allah mengenai hak-hak yang sudah ditentukan dalam hal bapak dan anak angkat.\n\n
+
+    Hubungan Nabi Muhammad dengan istri-istrinya adalah hubungan yang sungguh  terhormat dan agung, seperti dalam keterangan Umar bin Al-Khathab. Dan contoh  semacam itu akan banyak dijumpai dalam sejarah kehidupan beliau. Semua itu akan menjadi contoh yang berbicara sendiri, bahwa belum ada seorang pun yang dapat menghormati wanita seperti yang pernah dilakukan Nabi Muhammad. Belum ada seorang pun yang dapat mengangkat martabat wanita ke tempat yang layak seperti yang dilakukan oleh Rasulullah SAW.
+    "/>
+    </ScrollView>
+</RelativeLayout>

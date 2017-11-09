@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_fatihah"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.fatihah">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="Surat Al Fatihah\n\n
+                            بِسْم اللهِ الرَّحْمٰن الرَّحِيْمِ ِ\n\n
+1. Dengan nama Allah yang Maha Pengasih lagi Maha Penyayang.\n\n
+
+    اَالْحَمْد لِلّٰهِ رَبُ الْعٰلَمِيْنَ\n\n
+
+2. Segala puji bagi Allah, Tuhan seru sekalian alam.    \n\n
+
+الرَّحِيْمِالرَّحْمٰنِ\n\n
+
+3. Yang Maha Pengasih lagi Maha Penyayang.\n\n
+
+الدِّيْنِيَوْمِ مٰلِكِ\n\n
+
+4. Yang Menguasai hari pembalasan.\n\n
+
+نَسْتَعِيْنُ كَ وَاِيَّانَعْبُدُ اِيَّاكَ\n\n
+
+5. Hanya kepada-Mulah hamba mengabdi dan hanya kepada-Mulah hamba meminta pertolongan.\n\n
+
+الْمُسْتَقِيْمَ اط الصِّرَاِهْدِنَا\n\n
+
+6. Tunjukkanlah kepada kami jalan yang lurus\n\n
+
+صِرَاطَ الَّذِ يْنَ اَنْعَمْتَ عَلَيْهِمْ ۙ غَيْرِ ٱلْمَغْضُوْبِ عَلَيْهِمْ وَلاَ ٱلضَّآلِّيْنَ\n\n
+
+7. (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadannya, bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.\n\n\n\n\n\n\n\n\n\n
+
+"
+            android:id="@+id/textView"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

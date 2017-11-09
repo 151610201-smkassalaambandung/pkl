@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tarikh4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.Tarikh4">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="  Muḥammad adalah seorang nabi dan rasul bagi umat Muslim. Ia memulai penyebaran ajaran Islam untuk seluruh umat manusia dan mewariskan pemerintahan tunggal Islam. Meski non-Muslim umumnya menganggap Muhammad sebagai pendiri Islam, dalam pandangan Muslim, Muhammad sama-sama menegakkan ajaran tauhid untuk mengesakan Allah sebagaimana yang dibawa nabi dan rasul sebelumnya sejak dari Nabi Nuh. Umat Muslim menyebut Muhammad dengan salam penghormatan “Shalallaahu ‘Alayhi Wasallam” dan mengiringi dengan shalawat Nabi setiap nama Muhammad diperdengarkan.\n\n
+
+    Nabi Muhammad lahir pada tahun 570 di Mekkah, Muhammad melewati masa kecil sebagai yatim piatu; ia dibesarkan di bawah asuhan pamannya Abu Thalib. Beranjak remaja, Muhammad bekerja sebagai pedagang. Ia kadang-kadang mengasingkan diri ke gua sebuah bukit hingga bermalam-malam untuk merenung dan berdoa; diriwayatkan dalam usia ke-40, Muhammad didatangi Malaikat Jibril dan menerima wahyu pertama dari Allah. Ia menyatakan dirinya sebagai utusan Allah, sebagaimana nabi-nabi yang telah Allah utus sebelumnya. Tiga tahun setelah wahyu pertama, Muhammad mulai berdakwah secara terbuka, menyatakan keesaan Allah dalam bentuk penyerahan diri melalui Islam sebagai agama yang benar. Muhammad menerima wahyu berangsur-angsur hingga kematiannya. Praktik atau amalan Muhammad diriwayatkan dalam hadits, dirujuk oleh umat Islam sebagai sumber hukum Islam bersama Al-Quran.\n\n
+
+    Gelar Nabi Muhammad SAW\n\n
+
+    Al Amin Ketika Muhammad berumur 35 tahun, ia ikut bersama kaum Quraisy dalam perbaikan Kakbah. Pada saat pemimpin-pemimpin suku Quraisy berdebat tentang siapa yang berhak meletakkan Hajar Aswad, Muhammad dapat menyelesaikan masalah tersebut dan memberikan penyelesaian adil. Saat itu ia dikenal di kalangan suku-suku Arab karena sifat-sifatnya yang terpuji. Kaumnya sangat mencintainya, hingga akhirnya ia memperoleh gelar Al Amin yang artinya “orang yang dapat dipercaya”.\n\n
+
+    As-Saadiq Diriwayatkan pula bahwa Muhammad adalah orang yang percaya sepenuhnya dengan keesaan Tuhan. Ia hidup dengan cara amat sederhana dan membenci sifat-sifat tamak, angkuh dan sombong yang lazim di kalangan bangsa Arab saat itu. Ia dikenal menyayangi orang-orang miskin, janda-janda tak mampu dan anak-anak yatim serta berbagi penderitaan dengan berusaha menolong mereka. Ia juga menghindari semua kejahatan yang sudah membudaya di kalangan bangsa Arab pada masa itu seperti berjudi, meminum minuman keras, berkelakuan kasar dan lain-lain, sehingga ia dikenal sebagai As-Saadiq yang berarti “yang benar”."/>
+    </ScrollView>
+
+</RelativeLayout>

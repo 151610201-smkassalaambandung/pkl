@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_ihtidal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/bg"
+    tools:context="pulau.com.materikeagamaan.ihtidal">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/bg"
+            android:textSize="16dp"
+            android:text="6.I'tidal\n\n
+
+
+        Selesai rukuk, terus bangkitlah tegak dengan mengangkat kedua belah tangan setentang telinga, seraya membaca sebagai berikut:\n\n
+
+        سَمِعَ اللهُ لِمَنْ حَمِدَهُ\n\n
+
+        Bacaannya: Sami'allaahu li man hamidah.\n\n
+
+        Artinya :\n\n
+
+        Allah mendengar orang yang memuji-Nya.\n\n
+
+        Pada waktu berdiri tegak (i'tidal) terus membaca:\n\n
+
+    \n\n    رَبَّنَا لَكَ اْلحَمْدُ مِلْءُالسَّمَوَاتِ وَمِلْءُاْلاَرْضِ وَمِلْءُ مَا شِعْتَ مِنْ شَيْءٍ بَعْدُ
+
+        Bacaannya: Rabbanaa lakal-hamdu mil'us-samaawaati wa mill-ul-ardhi wa mil'u maa syita min syai'in ba'du.\n\n
+
+        Artinya :\n\n
+
+        Ya Allah tuhan kami! Bagi-Mu segala puji, sepenuh langit dan bumi, dan sepenuh barang Kau kehendaki sesudah itu.\n\n\n\n\n\n
+"/>
+
+    </ScrollView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15px"
+        android:text=""
+        android:id="@+id/ket"></TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#c654ff"
+        android:text="PAUSE"
+        android:id="@+id/btnPAUSE"
+        android:layout_alignTop="@+id/btnPLAY"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#ff8873"
+        android:text="STOP"
+        android:id="@+id/btnSTOP"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#f9d45a"
+        android:text="PLAY"
+        android:id="@+id/btnPLAY"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
